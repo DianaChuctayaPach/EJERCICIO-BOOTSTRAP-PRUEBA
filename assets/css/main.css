@@ -52,3 +52,15 @@ header .action h1{
     width: 200px;
     height: 200px;
 }
+.servicio{
+    padding: 0px 30px;
+}
+.servicio h3{
+    text-transform: uppercase;
+    font-size: 1.2em;
+    letter-spacing: 2px;
+}
+.servicio i{
+    font-size: 6em;
+    margin-bottom: 15px;
+}
