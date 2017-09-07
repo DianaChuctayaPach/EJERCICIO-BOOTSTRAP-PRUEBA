@@ -1,6 +1,6 @@
 @import 'https://fonts.googleapis.com/css?family=Montserrat';
 *{
-    outline: 2px solid red;
+    /* outline: 2px solid red; */
 }
 body{
     font-family: 'Montserrat', sans-serif;
